@@ -1,14 +1,11 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Longhorn Riichi'
 
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+logo: "images/logo/logo.svg"
+logo_height: "32px"
+logo_mobile: "images/logo/logo-mobile.svg"
+logo_mobile_height: "32px"
 
 home: 
   limit_services: 6
@@ -37,6 +34,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
