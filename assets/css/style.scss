@@ -2,13 +2,12 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$white: #ffffff; // put `white` first so we don't care if VSCode doesn't display the color picker due to the front matter
+$primary: #0b770b;
+$secondary: #ffff33;
 $black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+$white-offset: #efffef; // used for background against white
+$steel: #5a5a5c; // used for small text
 
 // Links
 $link-color: $primary;
@@ -17,8 +16,12 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
+@font-face {
+  font-family: "Edo SZ";
+  src: url(../fonts/edosz.ttf);
+}
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-heading: "Edo SZ", serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
