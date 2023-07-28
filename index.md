@@ -1,13 +1,12 @@
 ---
 title: Longhorn Riichi
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: We are *the* Japanese Mahjong club based in Austin, Texas! Come to learn or play Riichi at our weekly game sessions -- it's free!
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 
-# Longhorn Riichi.
+# {{ page.title }}
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+{{ page.description }}

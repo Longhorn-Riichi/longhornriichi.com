@@ -8,8 +8,9 @@ main:
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Join Us"
+    url: "/discord/"
+    open_in_new_tab: true
     weight: 5
 
 footer:
