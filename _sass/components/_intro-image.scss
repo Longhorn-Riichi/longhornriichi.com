@@ -6,28 +6,30 @@
     display: flex;
     justify-content: center;
     // fix a height, hide the horizontal overflow, and cancel the bottom margin
-    height: 550px;
+    height: 500px;
     overflow: hidden;
     margin-bottom: 0;
   }
   @include media-breakpoint-up(lg) {
-    height: 600px;
+    height: 525px;
   }
   @include media-breakpoint-up(xl) {
-    height: 650px;
+    height: 550px;
+  }
+  .intro-image {
+    width: 100%;
+    height: auto;
+    @include media-breakpoint-up(md) {
+      height: 100%;
+      width: auto;
+    }
+  }
+  .intro-image-hide-mobile {
+    display: none;
+    @include media-breakpoint-up(md) {
+      display: block;
+    }
   }
 }
-.intro-image {
-  width: 100%;
-  height: auto;
-  @include media-breakpoint-up(md) {
-    height: 100%;
-    width: auto;
-  }
-}
-.intro-image-hide-mobile {
-  display: none;
-  @include media-breakpoint-up(md) {
-    display: block;
-  }
-}
+
+
