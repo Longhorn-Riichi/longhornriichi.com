@@ -55,9 +55,7 @@ $sub-footer-text-color: $white;
 @import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
-@import "pages/page-home";
-@import "pages/page-teams";
-@import "pages/page-service";
+@import "pages/page-team";
 
 body {
   font-size: 16px;

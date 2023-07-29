@@ -2,7 +2,6 @@
 title: About
 layout: page
 description: About
-bodyClass: page-about
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum

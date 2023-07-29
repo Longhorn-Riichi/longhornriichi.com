@@ -7,28 +7,6 @@ logo_height: "32px"
 logo_mobile: "images/logo/logo.svg"
 logo_mobile_height: "32px"
 
-home: 
-  limit_services: 6
-
-collections:
-  services:
-    output: true
-    sort_by: weight
-  team:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
