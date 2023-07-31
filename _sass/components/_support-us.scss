@@ -20,15 +20,15 @@
       }
     }
     p {
-      font-size: 1rem;
+      font-size: 16px;
       font-weight: light;
-      line-height: 1.1;
+      line-height: 1.2;
       color: $steel;
       text-align: center;
       @include media-breakpoint-up(lg) {
-        font-size: 1.2rem;
+        font-size: 20px;
         font-weight: light;
-        line-height: 1.2;
+        line-height: 1.5;
       }
     }
   }
@@ -45,7 +45,6 @@
     // margin before the title in mobile vertical view
     @include media-breakpoint-down(sm) {
       margin-bottom: 10px;
-    }
-    
-  }  
+    } 
+  }
 }
