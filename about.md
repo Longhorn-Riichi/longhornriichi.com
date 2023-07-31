@@ -6,6 +6,7 @@ about_image: "https://lh3.googleusercontent.com/pw/AIL4fc82g0Mtmy2b69VEDXI1rx_RD
 constitution: "https://docs.google.com/document/d/1U6bHCbOnNlS0PfH_8LwUmVIO-eGUS5ciYx4ampW4PWg"
 placeholder_image: "/images/favicon_inverted_32x32.svg"
 about_image_hide_on_mobile: false
+support-us-strip-style: "strip-white-offset"
 ---
 
 {{ page.description }}
