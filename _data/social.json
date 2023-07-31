@@ -1,12 +1,12 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/Longhorn-Riichi",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Discord",
+    "link": "/discord/",
+    "image": "images/social/discord-mark-white.svg"
   }
 ]

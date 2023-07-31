@@ -1,0 +1,28 @@
+<div class="strip strip-white-offset">
+  <h1 class="officers-strip-title pt-2 pb-1">
+    Current Officers
+  </h1>
+  <div class="container">
+    <div class="row">
+      {% for officer in site.data.officers %}
+      <div class="col-6 col-md-4 pb-3">
+        <div class="officer-summary">
+          
+          <div class="officer-image">
+            {% if officer.image %}
+            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ officer.image | relative_url }}" />
+            {% else %}
+            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ page.placeholder_image | relative_url }}" />
+            {% endif %}
+          </div>
+
+          <div class="officer-meta">
+            <h2 class="officer-name">{{ officer.name }}</h2>
+            <p class="officer-title">{{ officer.title }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

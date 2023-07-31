@@ -2,23 +2,22 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$white: #ffffff; // put `white` first so we don't care if VSCode doesn't display the color picker due to the front matter
+$primary: #0b770b;
+$secondary: #ffff33;
 $black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+$white-offset: #efffef; // used for background against white
+$steel: #5a5a5c; // used for small text
 
 // Links
 $link-color: $primary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: lighten($primary, 5%);
 $link-hover-decoration: underline;
 
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-heading: "Edo SZ", serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
@@ -46,7 +45,6 @@ $sub-footer-text-color: $white;
 @import "components/main-menu-mobile";
 @import "components/hamburger";
 @import "components/buttons";
-@import "components/call";
 @import "components/title";
 @import "components/content";
 @import "components/intro";
@@ -54,12 +52,9 @@ $sub-footer-text-color: $white;
 @import "components/strip";
 @import "components/feature";
 @import "components/social";
-// @import "components/fonts"; // Uncomment this line to self host font
-
-// Pages
-@import "pages/page-home";
-@import "pages/page-teams";
-@import "pages/page-service";
+@import "components/fonts";
+@import "components/officer";
+@import "components/support-us";
 
 body {
   font-size: 16px;

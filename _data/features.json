@@ -1,28 +1,28 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "No Entry Barrier",
+    "description": "No experience? No worries! We are happy to teach, free of charge!",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
+      "url": "images/features/no_entry_barrier.png",
+      "width": "auto",
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Make Friends",
+    "description": "Enjoy the social element of mahjong and make friends through the clashing of tiles!",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
+      "url": "images/features/make_friends.png",
+      "width": "auto",
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Merch and Prizes",
+    "description": "Get exclusive mahjong T-shirts and win prizes with an optional paid membership!",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
+      "url": "images/features/merch_and_prizes.png",
+      "width": "auto",
       "height": 80
     }
   }
