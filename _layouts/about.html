@@ -8,14 +8,15 @@ layout: default
     <div class="row align-items-center">
       <div class="col-12 col-md-7 order-2 order-md-1 about-container">
         {{ content }}
-        <a href="{{ page.constitution }}" class="button">Constitution</a>
       </div>
+      
       {% if page.about_image %}
       <div class="col-12 col-md-5 order-1 order-md-2 about-image-container">
         <img alt="{{ page.title }}" class="about-image{% if page.about_image_hide_on_mobile %} about-image-hide-mobile{% endif %}" src="{{ page.about_image }}" />
       </div>
       {% endif %}
     </div>
+    <a href="{{ page.constitution }}" class="button">Constitution</a>
   </div>
 </div>
 
