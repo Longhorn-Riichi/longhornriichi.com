@@ -1,8 +1,14 @@
 main:
-  - name: "Team"
-    url: "/team/"
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Events"
+    url: "/events/"
+    weight: 2
+  - name: "Leaderboard"
+    url: "/leaderboard/"
     weight: 3
-  - name: "About"
+  - name: "About Us"
     url: "/about/"
     weight: 4
   - name: "Join Us"
@@ -11,9 +17,13 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "Events"
+    url: "/events/"
     weight: 1
-  - name: "About"
+  - name: "About Us"
     url: "/about/"
-    weight: 2
+    weight: 3
+  - name: "Join Us"
+    url: "/discord/"
+    open_in_new_tab: true
+    weight: 4

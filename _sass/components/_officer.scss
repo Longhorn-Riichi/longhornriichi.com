@@ -1,0 +1,47 @@
+.officers-strip-title {
+  font-size: 40px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.officer-summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  .officer-image {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    border-radius: 20%;
+    overflow: hidden;
+    @include media-breakpoint-down(sm) {
+      height: 50px;
+      width: 50px;
+      margin-right: 8px;
+    }
+    img {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  .officer-meta {
+    flex: 1;
+    .officer-name {
+      margin: 0;
+      font-size: 22px;
+      font-weight: normal;
+      @include media-breakpoint-down(sm) {
+        font-size: 18px;
+      }
+    }
+    .officer-title {
+      color: $black;
+      margin: 0;
+      font-size: 13px;
+      font-weight: bold;
+      @include media-breakpoint-down(sm) {
+        font-size: 12px;
+      }
+    }
+  }
+}

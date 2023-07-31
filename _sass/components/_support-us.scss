@@ -1,0 +1,51 @@
+.support-us{
+  @include media-breakpoint-down(sm) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .support-us-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h2 {
+      color: $black;
+      font-size: 30px;
+      font-weight: normal;
+      @include media-breakpoint-up(md) {
+        font-size: 33px;
+      }
+      @include media-breakpoint-up(lg) {
+        font-size: 35px;
+      }
+    }
+    p {
+      font-size: 1rem;
+      font-weight: light;
+      line-height: 1.1;
+      color: $steel;
+      text-align: center;
+      @include media-breakpoint-up(lg) {
+        font-size: 1.2rem;
+        font-weight: light;
+        line-height: 1.2;
+      }
+    }
+  }
+  
+  .support-us-image-container {
+    // render a smaller but full picture
+    img {
+      max-width: 100%;
+    }
+    // add padding in md+
+    @include media-breakpoint-up(md) {
+      padding: 10px;
+    }
+    // margin before the title in mobile vertical view
+    @include media-breakpoint-down(sm) {
+      margin-bottom: 10px;
+    }
+    
+  }  
+}
