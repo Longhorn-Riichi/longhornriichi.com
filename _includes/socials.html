@@ -1,0 +1,7 @@
+<div class="socials">
+  {% for social_key_value in site.data.socials %}
+    {% assign social_name = social_key_value.first %}
+    {% assign social_obj = social_key_value.last %}
+    <a href="{{ social_obj.url }}"><img src="{{ social_obj.image | relative_url }}" title="{{ social_name }}" alt="{{ social_name }}" /></a>
+  {% endfor %}
+</div>

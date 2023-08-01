@@ -36,5 +36,5 @@ The "UTA vs UTD" is a special friendly tournament we host during every major bre
 Here are [the detailed ruleset](https://docs.google.com/document/d/1fEAlO2yt9cGMqz1cgdEfXbsNulxHll74D5h_M-hKnPU/edit?usp=sharing) and [the latest standings](https://docs.google.com/spreadsheets/d/1rvsH9FQVwqV5IE5YJbBqVqPjCJsl6P7E376IQBg4_Pg/edit?usp=sharing).
 
 
-[our Discord server]: {{ site.data.contact.discord }}
+[our Discord server]: {{ site.data.socials.Discord.url }}
 [Mahjong Soul]: https://mahjongsoul.game.yo-star.com/
