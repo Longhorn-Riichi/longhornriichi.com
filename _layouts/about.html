@@ -2,16 +2,17 @@
 layout: default
 ---
 
-<div class="intro">
+<div class="about">
   <div class="container">
+    <h1>{{ page.title }}</h1>
     <div class="row align-items-center">
-      <div class="col-12 col-md-4 order-2 order-md-1 intro-container">
+      <div class="col-12 col-md-7 order-2 order-md-1 about-container">
         {{ content }}
-        <a href="{{ site.data.contact.discord }}" target="_blank" rel="noopener noreferrer" class="button">Say Hi On Discord</a>
+        <a href="{{ page.constitution }}" target="_blank" rel="noopener noreferrer" class="button">Constitution</a>
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-8 order-1 order-md-2 intro-image-container">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image }}" />
+      {% if page.about_image %}
+      <div class="col-12 col-md-5 order-1 order-md-2 about-image-container">
+        <img alt="{{ page.title }}" class="about-image{% if page.about_image_hide_on_mobile %} about-image-hide-mobile{% endif %}" src="{{ page.about_image }}" />
       </div>
       {% endif %}
     </div>
@@ -19,5 +20,7 @@ layout: default
 </div>
 
 {% include officers.html %}
+
+{% include accomplishments.html %}
 
 {% include support-us.html %}

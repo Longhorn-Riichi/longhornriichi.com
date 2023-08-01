@@ -3,6 +3,7 @@
 Longhorn Riichi's website built with Jekyll!
 
 Deployed site: [longhornriichi.pages.dev](https://longhornriichi.pages.dev/)
+
 Preview site: [dev.longhornriichi.pages.dev/](http://dev.longhornriichi.pages.dev/)
 
 ## Repository Structure:
