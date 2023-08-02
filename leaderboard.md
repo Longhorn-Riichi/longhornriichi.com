@@ -14,7 +14,7 @@ Our standard ruleset differs from the [Mahjong Soul]/[Tenhou] ranked mode only i
 
 - [Head bump](https://riichi.wiki/Atamahane) is **on**.
 - *Kan dora* is always **revealed immediately**.
-- [*agariyame* and *tenpaiyame*](https://en.wikipedia.org/wiki/Japanese_mahjong#:~:text=negative%20point%20value.-,Runaway%20victory,-%5Bedit%5D) are **off**.
+- [*agariyame* and *tenpaiyame*](https://en.wikipedia.org/wiki/Japanese_mahjong#Runaway_victory) are **off**.
 - Placement bonus:
   - Yonma Tonpuu: +8/+3/-3/-8
   - Yonma Hanchan: +16/+6/-6/-16
