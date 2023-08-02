@@ -1,11 +1,10 @@
 url: 'https://longhornriichi.com/'
-baseurl: '/'
 permalink: pretty
 title: 'Longhorn Riichi'
 
-logo: "images/logo/logo.svg"
+logo: "/images/logo/logo.svg"
 logo_height: "32px"
-logo_mobile: "images/logo/logo.svg"
+logo_mobile: "/images/logo/logo.svg"
 logo_mobile_height: "32px"
 
 sass:

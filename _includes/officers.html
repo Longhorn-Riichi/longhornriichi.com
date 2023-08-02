@@ -10,9 +10,9 @@
           
           <div class="officer-image">
             {% if officer.image %}
-            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ officer.image | relative_url }}" />
+            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ officer.image }}" />
             {% else %}
-            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ page.placeholder_image | relative_url }}" />
+            <img alt="{{ officer.name }}" class="img-fluid mb-2" src="{{ page.placeholder_image }}" />
             {% endif %}
           </div>
 
