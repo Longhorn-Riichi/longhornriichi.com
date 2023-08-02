@@ -8,7 +8,7 @@ Please join [our Discord server], where we share details and updates about all o
 
 # Weekly meetup
 
-![Picture of the First Meeting in Fall 2022](https://lh3.googleusercontent.com/pw/AIL4fc9thy73Z7K282j7agKujwaIGt8tibqA3RCpY0I8DZ3ZU8CC87D0e5zxKj9PxnQGs_WyDHqkPYMTldoL_PgdqpNTWeUS-rnIOTNnapoVnXMJm3ebuQ=h400)
+![Picture of the First Meeting in Fall 2022](https://lh3.googleusercontent.com/pw/AIL4fc9thy73Z7K282j7agKujwaIGt8tibqA3RCpY0I8DZ3ZU8CC87D0e5zxKj9PxnQGs_WyDHqkPYMTldoL_PgdqpNTWeUS-rnIOTNnapoVnXMJm3ebuQ=w700)
 
 We will be teaching *and* playing at our weekly meetup.
 
