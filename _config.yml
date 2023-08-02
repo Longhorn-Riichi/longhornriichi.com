@@ -1,3 +1,4 @@
+url: 'https://longhornriichi.pages.dev/'
 baseurl: '/'
 permalink: pretty
 title: 'Longhorn Riichi'
@@ -15,6 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-target-blank
 
 exclude:
   - Gemfile
