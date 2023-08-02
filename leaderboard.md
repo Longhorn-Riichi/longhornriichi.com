@@ -25,7 +25,7 @@ Our standard ruleset differs from the [Mahjong Soul]/[Tenhou] ranked mode only i
 
 # Paid Member Leaderboard Prizes
 
-![Sticker Sheets](https://lh3.googleusercontent.com/pw/AIL4fc-7W5kKEuLsRXSc-n_Rbjm4NZuI4PBiwkqoagragLBalDAwsR_8GSIr7gtNpy3IgH78br3eFvbPjz4nnHSNceEyHxF42YSai5i7a2aaNfKq957j9E0=h400)
+![Sticker Sheets](https://lh3.googleusercontent.com/pw/AIL4fc-7W5kKEuLsRXSc-n_Rbjm4NZuI4PBiwkqoagragLBalDAwsR_8GSIr7gtNpy3IgH78br3eFvbPjz4nnHSNceEyHxF42YSai5i7a2aaNfKq957j9E0=w700)
 
 Baseline: a paid member will receive an award certificate and two full Riichi sticker sheets for *each* top-3 position on the leaderboard. We are actively exploring options to introduce more diverse prizes and broaden eligibility criteria.
 
