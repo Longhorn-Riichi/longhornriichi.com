@@ -6,5 +6,9 @@
   "Discord": {
     "url": "https://discord.gg/Ux8hjRBDBU",
     "image": "/images/socials/discord-mark-white.svg"
+  },
+  "Email": {
+    "url": "mailto:longhornriichi@gmail.com",
+    "image": "/images/socials/email.svg"
   }
 }

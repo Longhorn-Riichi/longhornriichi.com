@@ -8,13 +8,13 @@ CloudFlare production hostname: [longhornriichi.pages.dev](https://longhornriich
 
 CloudFlare preview hostname: [dev.longhornriichi.pages.dev](http://dev.longhornriichi.pages.dev/)
 
-## testing locally
+## Testing Locally
 Get [all the requirements for Jekyll](https://jekyllrb.com/docs/). Then:
 ```
 bundle install
 bundle exec jekyll serve
 ```
-Useful options: `--livereload` `host=0.0.0.0`.
+Useful options: `--livereload` `--host=0.0.0.0`.
 
 ## Repository Structure:
 Developers should be most interested in the following:
