@@ -1,11 +1,15 @@
 {
-  "Github": {
-    "url": "https://github.com/Longhorn-Riichi",
-    "image": "/images/socials/github.svg"
-  },
   "Discord": {
     "url": "https://discord.gg/Ux8hjRBDBU",
     "image": "/images/socials/discord-mark-white.svg"
+  },
+  "Instagram": {
+    "url": "https://www.instagram.com/longhorn_riichi/",
+    "image": "/images/socials/instagram.svg"
+  },
+  "Github": {
+    "url": "https://github.com/Longhorn-Riichi",
+    "image": "/images/socials/github.svg"
   },
   "Email": {
     "url": "mailto:longhornriichi@gmail.com",
