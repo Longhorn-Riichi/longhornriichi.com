@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Riichi Mahjong Events
 layout: page
 description: Highlighted Events of Longhorn Riichi, including tournaments and weekly game sessions.
 ---
@@ -8,7 +8,7 @@ Please join [our Discord server], where we share details and updates about all o
 
 # Weekly meetup
 
-![Picture of the First Meeting in Fall 2022](https://lh3.googleusercontent.com/pw/AIL4fc9thy73Z7K282j7agKujwaIGt8tibqA3RCpY0I8DZ3ZU8CC87D0e5zxKj9PxnQGs_WyDHqkPYMTldoL_PgdqpNTWeUS-rnIOTNnapoVnXMJm3ebuQ=w700)
+![Fall 2023 Meeting Picture](https://lh3.googleusercontent.com/pw/AIL4fc-LX0Sc-h6LPLjBq3zDfJUPM8ZD9SVF5xD7oHRPK5JJ4PScxKu9cJcX8WXuhEjaWAFJ7UyoqWFLKHbGs7bQdamXHK5vH1JeTUCCl5Au70wHGTwnPzI=w700)
 
 We will be teaching *and* playing at our weekly meetup.
 

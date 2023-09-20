@@ -2,7 +2,7 @@
   {
     "name": "Peter G.",
     "title": "President",
-    "image": "/images/officers/PeterRNO2023.jpg"
+    "image": "/images/officers/Peter.jpg"
   },
   {
     "name": "Bryan D.",
@@ -11,11 +11,19 @@
   },
   {
     "name": "Dani W.",
-    "title": "Developer",
-    "image": "/images/officers/dani.png"
+    "title": "Treasurer",
+    "image": "/images/officers/Dani.png"
   },
   {
     "name": "Adam H.",
     "title": "Outreach"
+  },
+  {
+    "name": "Alan Z.",
+    "title": "Junior Officer"
+  },
+  {
+    "name": "Vivian Z.",
+    "title": "Junior Officer"
   }
 ]
