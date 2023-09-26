@@ -1,8 +1,10 @@
 ---
-title: Riichi Mahjong Events
+title: Events
 layout: page
 description: Highlighted Events of Longhorn Riichi, including tournaments and weekly game sessions.
 ---
+
+# {{ page.title }}
 
 Please join [our Discord server], where we share details and updates about all our events. See [Leaderboard](/leaderboard/) for the seasonal leaderboard and ruleset. We'll introduce some of our regular events in sections below.
 
@@ -39,4 +41,4 @@ Here is [the latest ruleset](https://docs.google.com/document/d/1fEAlO2yt9cGMqz1
 - [Winter 2022 standings](https://docs.google.com/spreadsheets/d/165PUJBiv_ZmCp7N2iewhIBR4dnQgXHfNv-7j-IJnpAc/edit?usp=sharing)
 
 [our Discord server]: {{ site.data.socials.Discord.url }}
-[Mahjong Soul]: https://mahjongsoul.game.yo-star.com/
+[Mahjong Soul]: https://mahjongsoul.yo-star.com/

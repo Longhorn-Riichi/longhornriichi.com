@@ -4,6 +4,8 @@ layout: page
 description: Here are the relevant documents for the leaderboard, including the leaderboard spreadsheets, ruleset, etc.
 ---
 
+# {{ page.title }}
+
 {{ page.description }}
 
 [Fall 2023 Leaderboard](https://docs.google.com/spreadsheets/d/1pXlGjyz165S62-3-4ZXxit4Ci0yW8piVfbVObtjg7Is/edit?usp=sharing)
@@ -36,5 +38,5 @@ Baseline: a paid member will receive an award certificate and two full Riichi st
 - [Spring 2022 Leaderboard](https://docs.google.com/spreadsheets/d/1erA7y_9d-M8HUUf3JRdZDrDGxcJ5BZIBD52PgJLdMxA/edit?usp=sharing)
 - [Fall 2021 Leaderboard](https://docs.google.com/spreadsheets/d/1Ey-EXTtDfbXwvCkMHZm-Aq77N3cHeORX4TDImKtsIM8/edit?usp=sharing) ([Game Results here](https://docs.google.com/spreadsheets/d/1YcDxZBkIGYT1NEayESIo1jZPd5i4gfliRpqGO7pmDNY/edit?usp=sharing))
 
-[Mahjong Soul]: https://mahjongsoul.game.yo-star.com/
-[Tenhou]: https://tenhou.net/3/
+[Mahjong Soul]: https://mahjongsoul.yo-star.com/
+[Tenhou]: https://tenhou.net/

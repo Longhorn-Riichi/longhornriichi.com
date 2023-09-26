@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} | {{ site.title | escape }} | {{ site.subtitle }}{% else %}{{ site.title | escape }} | {{ site.subtitle }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/png" href="/images/favicon_inverted_32x32.svg">
   <link href="/assets/css/style.css" rel="stylesheet">
