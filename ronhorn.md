@@ -58,7 +58,7 @@ Records scores for a given Mahjong Soul club game. (only usable by officers)
 Enables or disables auto-matching for a given lobby. (only usable by officers)
 
 #### `/check_queues [check_voice_channel] [exclude1] [exclude2] [exclude3] [exclude4]`
-Checks to see if everyone is queued up in the Mahjong Soul club lobbies. Has an option to check the voice channel for players instead.
+Checks to see if everyone is queued up in the Mahjong Soul club lobbies. Has an option to check the voice channel for players instead. `exclude1` to `exclude4` excludes certain users in the voice channel from the check, useful if certain voice channel members wish to be excluded from games.
 
 #### `/start_queued_games`
 Start games for everyone queued up in the Mahjong Soul club lobbies.
