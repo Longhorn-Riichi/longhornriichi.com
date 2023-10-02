@@ -23,7 +23,7 @@ Privately displays help about club online games, including the [Mahjong Soul] lo
 Privately displays a list of bot commands and their usages.
 
 #### `/help_officer_commands`
-Privately displays a list of officer-only bot commands and their usages.
+Privately displays a list of officer-only bot commands and their usages. (only usable by officers)
 
 ## Registration commands
 
@@ -53,6 +53,15 @@ Records scores for an in-person game. Inputs scores according to starting seats 
 
 #### `/submit_game lobby link`
 Records scores for a given Mahjong Soul club game. (only usable by officers)
+
+#### `/toggle_auto_match enabled`
+Enables or disables auto-matching for a given lobby. (only usable by officers)
+
+#### `/check_queues [check_voice_channel] [exclude1] [exclude2] [exclude3] [exclude4]`
+Checks to see if everyone is queued up in the Mahjong Soul club lobbies. Has an option to check the voice channel for players instead.
+
+#### `/start_queued_games`
+Start games for everyone queued up in the Mahjong Soul club lobbies.
 
 ### Ongoing game commands (Officer Only)
 #### `/terminate_any_game lobby nickname`
