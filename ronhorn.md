@@ -14,21 +14,32 @@ It also tracks and records online games played in the club's Mahjong Soul lobbie
 
 # Club Operation Commands
 
+## Help commands
+
+#### `/help`
+Privately displays help about club online games, including the [Mahjong Soul] lobby IDs and how to start club games.
+
+#### `/help_commands`
+Privately displays a list of bot commands and their usages.
+
+#### `/help_officer_commands`
+Privately displays a list of officer-only bot commands and their usages.
+
 ## Registration commands
 
 #### `/register real_name [friend_id]`
-Registers the user's Discord account with the club, along with a preferred name and optionally the user's Mahjong Soul account. Can be used to update an existing registration.
+Registers the user's Discord account with the club. Registration is required to show up on the club leaderboard. Must enter a preferred name, and optionally the user's Mahjong Soul account. Can be used to update an existing registration.
 
 #### `/unregister`
-Removes own registration.
+Removes your own registration (from `/register`).
 
 #### `/unregister_other server_member`
-Removes any registration. (only usable by officers)
+Unregister a given Discord user. (only usable by officers)
 
 ## Membership Management Commands
 
 #### `/update_membership server_member membership`
-Updates any member's paid membership status. (only usable by officers)
+Updates a given Discord user's paid membership status. (only usable by officers)
 
 #### `/replace_role old_role [new_role]`
 Removes a role from everyone, or replace a role with another one for everyone with that role. (only usable by officers)
@@ -37,11 +48,8 @@ E.g., replacing all "@Paid Member" with "@Past Paid Member" when a new season st
 
 ## Club Game Commands
 
-#### `/help`
-Shows help about club online games, including the [Mahjong Soul] lobby IDs and how to start club games.
-
-#### `/enter_scores game_type player1 score1 player2 score2 player3 score3 [player4] [score4] [riichi_sticks]`
-Records scores for an in-person game (`player1` is the starting East player, `player2` is South, etc.). Checks the input and reject any invalid input. (only usable by officers)
+#### `/enter_scores game_type east_player east_score south_player south_score west_player west_score [north_player] [north_score] [riichi_sticks]`
+Records scores for an in-person game. Inputs scores according to starting seats (e.g. `east_player` is the starting East player.) If the given scores don't total up to the expected total score, the submission is rejected. (only usable by officers)
 
 #### `/submit_game lobby link`
 Records scores for a given Mahjong Soul club game. (only usable by officers)
@@ -61,14 +69,14 @@ Records scores for a given Mahjong Soul club game. (only usable by officers)
 ## Injustice Judge Commands
 
 #### `/injustice link [player]`
-Analyzes your [Mahjong Soul] or [Tenhou] game to find instances of "mahjong injustice" for a given player. "Mahjong injustice" is when the bot finds perceived unluckiness.
+Analyzes your [Mahjong Soul] or [Tenhou] game log to find instances of *mahjong injustice* for a given player. *Mahjong injustice* is when the bot finds perceived unluckiness.
 
 Detailed documentation can be found [here](https://github.com/Longhorn-Riichi/InjusticeJudge#injusticejudge).
 
 ![`/injustice` command example](https://res.cloudinary.com/djvg6ubiy/image/upload/v1695713305/Ronhorn/injustice_wxvqhi.png)
 
 #### `/skill link`
-Analyzes your [Mahjong Soul] or [Tenhou] game to find instances of "mahjong skill" got all players. "Mahjong skill" is when the bot finds perceived luckiness.
+Analyzes your [Mahjong Soul] or [Tenhou] game log to find instances of *mahjong skill* for all players. *Mahjong skill* is when the bot finds perceived luckiness.
 
 Detailed documentation can be found [here](https://github.com/Longhorn-Riichi/InjusticeJudge#skills).
 
@@ -82,7 +90,7 @@ Outputs a list of hands from your [Mahjong Soul] or [Tenhou] game, including inf
 ## Miscellaneous Commands
 
 #### `/display text`
-Displays mahjong tiles in place of the mahjong notation like "123p 3z3Z3z". Beyond the capabilities of the [Jekyll Mahjong plugin], `/display` can also display dora tiles.
+Writes a message, replacing mahjong notation (like 123p 3z3Z3z) with mahjong tile emotes. `/display` can also display dora tiles, which is beyond the capabilities of the [Jekyll Mahjong plugin].
 
 ![`/display` command example](https://res.cloudinary.com/djvg6ubiy/image/upload/v1695713305/Ronhorn/display_iuuwco.png)
 
