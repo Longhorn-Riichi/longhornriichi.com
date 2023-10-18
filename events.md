@@ -8,13 +8,22 @@ description: Highlighted Events of Longhorn Riichi, including tournaments and we
 
 Please join [our Discord server], where we share details and updates about all our events. See [Leaderboard](/leaderboard/) for the seasonal leaderboard and ruleset. We'll introduce some of our regular events in sections below.
 
-# Weekly meetup
+# Weekly meetup & workshop
 
 ![Fall 2023 Meeting Picture](https://lh3.googleusercontent.com/pw/AIL4fc-LX0Sc-h6LPLjBq3zDfJUPM8ZD9SVF5xD7oHRPK5JJ4PScxKu9cJcX8WXuhEjaWAFJ7UyoqWFLKHbGs7bQdamXHK5vH1JeTUCCl5Au70wHGTwnPzI=w700)
 
 We will be teaching *and* playing at our weekly meetup.
 
-Fall 2023 (until December 3rd): we'll meet in room 2.120 of the [WCP Student Activity Center](https://goo.gl/maps/oQdE96JN4a3atbvZ7) on Sunday 2-4 PM by default. We may continute to play after 4 PM in the same building.
+For Fall 2023 (until December 3rd), we'll meet in room 2.120 of the [WCP Student Activity Center](https://goo.gl/maps/oQdE96JN4a3atbvZ7) on Sunday 2-4 PM by default. We may continute to play after 4 PM in the same building.
+
+Also new to Fall 2023, we are hosting workshops at the start of the weekly meetup! Here are the links to the workshop webpage/slides thus far:
+
+1. [Scoring Workshop](https://peterish.com/riichi-docs/workshop-scoring-hands) by Peter
+2. [5-block Theory Workshop](https://docs.google.com/presentation/d/1saM1aYETWs1ToNofNnsXcZNlr-4bnIrv/edit?usp=share_link&ouid=103585935535825729481&rtpof=true&sd=true) by Bryan
+3. [Shanten Workshop 1](https://docs.google.com/presentation/d/1nM2XCc7PPhpUsC8wN3cpaP1BGiWvnZm1/edit?usp=share_link&ouid=103585935535825729481&rtpof=true&sd=true) by Dani
+4. [Shanten Workshop 2](https://docs.google.com/presentation/d/1gg1lRqaQGmkpR4O2pV2_hvai7yOIl1dD/edit?usp=share_link&ouid=103585935535825729481&rtpof=true&sd=true) by Dani
+5. [Basic Defense Theory Workshop](https://docs.google.com/presentation/d/1NeuWSqlYFINtj9aDZmjAp0e4DgbZ7ksL3VSSj1GyxVo/edit?usp=sharing) by Peter
+
 
 # Weekly online session
 
