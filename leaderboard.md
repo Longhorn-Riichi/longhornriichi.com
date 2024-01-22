@@ -8,7 +8,7 @@ description: Here are the relevant documents for the leaderboard, including the 
 
 {{ page.description }}
 
-[Fall 2023 Leaderboard](https://docs.google.com/spreadsheets/d/1pXlGjyz165S62-3-4ZXxit4Ci0yW8piVfbVObtjg7Is/edit?usp=sharing)
+[Spring 2024 Leaderboard](https://docs.google.com/spreadsheets/d/1x7Ts8n6c8JArkNQ21hUnt2KdMNQ1o63amTUTgzpd5ik/edit?usp=sharing)
 
 # Ruleset
 
@@ -33,6 +33,7 @@ Baseline: a paid member will receive an award certificate and two full Riichi st
 
 # Previous Seasons
 
+- [Fall 2023 Leaderboard](https://docs.google.com/spreadsheets/d/1pXlGjyz165S62-3-4ZXxit4Ci0yW8piVfbVObtjg7Is/edit?usp=sharing)
 - [Spring 2023 Leaderboard](https://docs.google.com/spreadsheets/d/1c0MG3DuUuJ0ABkeG1zF_XmLCBdtocFcTIlMmdHclsfY/edit?usp=sharing)
 - [Fall 2022 Leaderboard](https://docs.google.com/spreadsheets/d/1tWTOmcUCUeWv3O3vvlqn3KTDX6NxVDzQrZpx_R-ieX8/edit?usp=sharing)
 - [Spring 2022 Leaderboard](https://docs.google.com/spreadsheets/d/1erA7y_9d-M8HUUf3JRdZDrDGxcJ5BZIBD52PgJLdMxA/edit?usp=sharing)
