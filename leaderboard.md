@@ -8,7 +8,7 @@ description: Here are the relevant documents for the leaderboard, including the 
 
 {{ page.description }}
 
-[Spring 2024 Leaderboard](https://docs.google.com/spreadsheets/d/1x7Ts8n6c8JArkNQ21hUnt2KdMNQ1o63amTUTgzpd5ik/edit?usp=sharing)
+[Fall 2024 Leaderboard](https://docs.google.com/spreadsheets/d/1JcnoPDOolSXDbsyLAozf1Gba4pVSGda1j-V-4s0Rwsw/edit?usp=sharing)
 
 # Ruleset
 
