@@ -1,8 +1,14 @@
 [
   {
-    "name": "Peter G.",
+    "name": "Dani W.",
     "title": "President",
-    "image": "/images/officers/Peter.jpg"
+    "image": "/images/officers/Dani.png"
+  },
+  
+  {
+    "name": "Vivian Z.",
+    "title": "Technology Officer",
+    "image": "/images/officers/Vivian.png"
   },
   {
     "name": "Bryan D.",
@@ -10,21 +16,7 @@
     "image": "/images/officers/Bryan.jpg"
   },
   {
-    "name": "Dani W.",
-    "title": "Treasurer",
-    "image": "/images/officers/Dani.png"
-  },
-  {
-    "name": "Adam H.",
-    "title": "Outreach"
-  },
-  {
     "name": "Alan Z.",
-    "title": "Junior Officer"
-  },
-  {
-    "name": "Vivian Z.",
-    "title": "Junior Officer",
-    "image": "/images/officers/Vivian.png"
+    "title": "Treasurer"
   }
 ]

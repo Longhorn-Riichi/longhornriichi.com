@@ -14,7 +14,7 @@ Please join [our Discord server], where we share details and updates about all o
 
 We will be teaching *and* playing at our weekly meetup.
 
-For Spring 2024, we'll meet in room 1.106 of the [WCP Student Activity Center](https://goo.gl/maps/oQdE96JN4a3atbvZ7) on Sunday 2-4 PM by default. We may continute to play after 4 PM in the same building.
+For Fall 2024, we'll meet in room 1.106 of the [WCP Student Activity Center](https://goo.gl/maps/oQdE96JN4a3atbvZ7) on Sunday 2-4 PM by default. We may continute to play after 4 PM in the same building.
 
 In Fall 2023, we hosted workshops at the weekly meetups! Here are the links to the workshop webpage/slides thus far:
 
